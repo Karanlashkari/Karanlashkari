@@ -1,10 +1,19 @@
-# Hi there! 👋 I'm Karan Lashkari
+<p align="center">
+  <img src="https://github.com/Karanlashkari/Karanlashkari/assets/168399955/68f1152f-ea2f-4345-9550-45dc6ceb9622" alt="image" width="800"/>
+</p>
 
-I'm a third-year Computer Science undergraduate passionate about Web Development. Welcome to my GitHub profile!
+# <h1 align="center">Hi there! 👋 I'm Karan Lashkari</h1>
+
+## <p align="center">I'm a third-year Computer Science undergraduate passionate about Web Development. Welcome to my GitHub profile!</p>
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=karanlashkari&label=Profile%20views&color=0e75b6&style=flat" alt="karanlashkari" /> 
+</p>
 
 ## About Me
 
 - 🌟 Pronouns: he/his
+- 📄 Here's my [resume](https://drive.google.com/file/d/1O-bwbFBV-axkg9kCRUtO5x0mk8nEn1WH/view?usp=drive_link).
 - 🎓 Education: Pursuing B.Tech in Computer Science
 - 💼 Currently studying at: Bharati vidhyapeeth College of engineering
 - 💡 I'm interested in: Exploring various aspects of computer science and technology mostly web development and software development
