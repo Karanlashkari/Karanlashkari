@@ -45,6 +45,20 @@ Here are some projects I've worked on:
 - Image Gallery([Link](https://github.com/Karanlashkari/Rock-Paper-Scissors))
 - Netflix Homepage(Link)
 
+## 🏆 GitHub Trophies
+<hr>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karanlashkari&theme=onedark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Stats
+<hr>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karanlashkari&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karanlashkari&theme=vue&hide_border=false&include_all_commits=false&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karanlashkari&theme=vue&hide_border=false)
+
 ## Get in Touch
 
 - 📫 You can reach me via email at Karankumarlashkari@gmail.com
@@ -56,7 +70,6 @@ Here are some projects I've worked on:
 - 🌱 I'm currently learning: Personal finance management strategies
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
-
 
 <!---
 Karanlashkari/Karanlashkari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
