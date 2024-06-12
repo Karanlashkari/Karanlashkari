@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Karanlashkari/Karanlashkari/assets/168399955/68f1152f-ea2f-4345-9550-45dc6ceb9622" alt="image" width="800" height="400"/>
-</p>
+
 
 # <h1 align="center">Hi there! 👋 I'm Karan Lashkari</h1>
 
