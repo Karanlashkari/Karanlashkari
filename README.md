@@ -2,7 +2,7 @@
 
 # <h1 align="center">Hi there! 👋 I'm Karan Lashkari</h1>
 
-## <p align="center">I'm a third-year Computer Science undergraduate passionate about Web Development. Welcome to my GitHub profile!</p>
+## <p align="center">B.Tech Computer Science Graduate passionate about Web Development And Artificial Intelligence. Welcome to my GitHub profile!</p>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=karanlashkari&label=Profile%20views&color=0e75b6&style=flat" alt="karanlashkari" /> 
@@ -12,8 +12,7 @@
 
 - 🌟 Pronouns: he/his
 - 📄 Here's my [resume](https://drive.google.com/file/d/1O-bwbFBV-axkg9kCRUtO5x0mk8nEn1WH/view?usp=drive_link).
-- 🎓 Education: Pursuing B.Tech in Computer Science
-- 💼 Currently studying at: Bharati vidhyapeeth College of engineering
+- 🎓 Education: B.Tech Graduate in Computer Science with Artificial Intelligence and Machine Learning
 - 💡 I'm interested in: Exploring various aspects of computer science and technology mostly web development and software development
 
 ## My Tech Stack
@@ -34,6 +33,7 @@
 
 - 🎨 Design Tool:
   - Figma
+  - Canva
 
 ## Projects
 
@@ -60,12 +60,12 @@ Here are some projects I've worked on:
 ## Get in Touch
 
 - 📫 You can reach me via email at Karankumarlashkari@gmail.com
-- 📱 Phone: +91 7005830821
+- 📱 Phone: +91 9321891654
 
 ## Fun Facts
 
 - 🎮 Fun fact: I'm an avid gamer.
-- 🌱 I'm currently learning: Personal finance management strategies
+- 🌱 I'm currently learning: Artificial Intelligence Algorithms
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
 
